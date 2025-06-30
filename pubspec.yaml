@@ -8,6 +8,10 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_joystick: ^0.2.2
+  wifi_scan: ^0.4.0+1
+  permission_handler: ^11.0.0
+  http: ^1.1.0
+  shared_preferences: ^2.2.0
 
 flutter:
   uses-material-design: true
